@@ -17,7 +17,7 @@
             "src/"
         ],
         "files":[
-            "scr/Helper.php"
+            "src/Helper.php"
         ]
     }
 }
